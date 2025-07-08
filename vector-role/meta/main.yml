@@ -1,0 +1,17 @@
+galaxy_info:
+  author: Roman Lystsev
+  description: vector installation
+  company: homelab
+
+  license: MIT
+  min_ansible_version: "2.3"
+
+  platforms:
+   - name: Ubuntu
+     versions:
+     - all
+
+galaxy_tags: []
+
+dependencies: []
+
